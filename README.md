@@ -88,6 +88,27 @@ Developed machine learning models to identify high-risk customers and generate i
 
 ---
 
+## 5. USA Regional Sales Analysis
+
+**Self Project | Feb 2024 – Mar 2024**
+
+Analyzed five years of U.S. sales data to identify growth opportunities, profitability drivers, seasonal trends, and regional performance gaps.
+
+### Key Work
+- Consolidated and cleaned multi-source **sales, customer, product, and budget data** using SQL and Python.
+- Engineered profit-margin metrics and performed regional, product, and customer-segment analysis.
+- Identified **Products 25 and 26** as contributing 25% of total sales, with California leading in revenue and orders.
+- Found the **West region** to have the highest overall sales.
+- Benchmarked regional revenue KPIs and built **Power BI dashboards** to analyze sales performance and customer segments.
+- Found that the **Wholesale segment contributed 54% of total sales**.
+
+### Technologies
+`SQL` `Python` `Pandas` `Power BI` `Excel` `Data Analysis`
+
+[View Project →](https://github.com/JayprakashChotiya/Usa-Regional-Sales-Analysis)
+
+---
+
 ## Skills Demonstrated
 
 ### Finance & Risk
